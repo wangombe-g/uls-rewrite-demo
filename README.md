@@ -1,4 +1,5 @@
 # Universal Language Selector (ULS) - Vue 3 Implementation
+![Universal Language Selector Screenshot](uls-rewrite-screenshot.png)
 
 A modern, feature-rich language selector component for Vue 3 applications, inspired by Wikipedia's Universal Language Selector.
 
