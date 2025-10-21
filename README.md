@@ -48,6 +48,8 @@ import LanguageSelector from './components/LanguageSelector.vue'
 
 ### Multi-Select Mode
 
+![Multi-select mode](uls-multiselect.png)
+
 ```vue
 <template>
   <LanguageSelector 
@@ -99,12 +101,16 @@ const selectedLanguages = ref(['en', 'es', 'fr'])
 
 ### Full Variant (Default)
 
+![ULS-full](uls-full.png)
+
 - Width: 512px
 - Layout: 3 columns, 5 items per column
 - Features: All enabled
 - Best for: Desktop navigation bars, settings pages
 
 ### Mini Variant
+
+![ULS-mini](uls-mini.png)
 
 - Width: 320px
 - Layout: Single column list
