@@ -11,7 +11,7 @@ const translations = {
     interfaceLanguage: 'Interface Language',
     searchLanguages: 'Search languages...',
     selectLanguage: 'Select a language',
-    wikipediaLanguageSelector: 'Wikipedia Language Selector',
+    wikipediaLanguageSelector: 'Language Selector',
     changeLanguage: 'Change Language'
   },
   es: {
@@ -19,7 +19,7 @@ const translations = {
     interfaceLanguage: 'Idioma de la interfaz',
     searchLanguages: 'Buscar idiomas...',
     selectLanguage: 'Seleccionar un idioma',
-    wikipediaLanguageSelector: 'Selector de idioma de Wikipedia',
+    wikipediaLanguageSelector: 'Selector de idioma de',
     changeLanguage: 'Cambiar idioma'
   },
   fr: {
@@ -27,7 +27,7 @@ const translations = {
     interfaceLanguage: 'Langue de l\'interface',
     searchLanguages: 'Rechercher des langues...',
     selectLanguage: 'Sélectionner une langue',
-    wikipediaLanguageSelector: 'Sélecteur de langue Wikipedia',
+    wikipediaLanguageSelector: 'Sélecteur de langue ',
     changeLanguage: 'Changer de langue'
   },
   de: {
@@ -35,7 +35,7 @@ const translations = {
     interfaceLanguage: 'Oberflächensprache',
     searchLanguages: 'Sprachen suchen...',
     selectLanguage: 'Eine Sprache auswählen',
-    wikipediaLanguageSelector: 'Wikipedia-Sprachauswahl',
+    wikipediaLanguageSelector: 'Sprachauswahl',
     changeLanguage: 'Sprache ändern'
   },
   ja: {
@@ -43,7 +43,7 @@ const translations = {
     interfaceLanguage: 'インターフェース言語',
     searchLanguages: '言語を検索...',
     selectLanguage: '言語を選択',
-    wikipediaLanguageSelector: 'Wikipedia言語セレクター',
+    wikipediaLanguageSelector: '言語セレクター',
     changeLanguage: '言語を変更'
   },
   zh: {
@@ -51,7 +51,7 @@ const translations = {
     interfaceLanguage: '界面语言',
     searchLanguages: '搜索语言...',
     selectLanguage: '选择语言',
-    wikipediaLanguageSelector: 'Wikipedia语言选择器',
+    wikipediaLanguageSelector: '语言选择器',
     changeLanguage: '更改语言'
   },
   ar: {
