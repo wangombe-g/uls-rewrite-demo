@@ -304,4 +304,4 @@ So that I can write articles about foreign cities with proper pronunciation
 **Document Version**: 1.0  
 **Last Updated**: October 17, 2025  
 **Status**: Draft for Review  
-**Owner**: [Your Name/Team]
+**Owner**: Eugene Wang'ombe - LPL

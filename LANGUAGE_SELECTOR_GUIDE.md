@@ -1,4 +1,4 @@
-# Wikipedia Language Selector - Implementation Guide
+# Universal Language Selector - Implementation Guide
 
 ## Overview
 This application implements a multi-language interface selector using the Wikimedia language-data package. Users can switch the interface language from a dropdown in the navigation bar.

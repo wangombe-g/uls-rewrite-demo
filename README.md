@@ -125,7 +125,6 @@ src/
 ├── components/
 │   ├── LanguageSelector.vue    # Main component
 │   ├── Navbar.vue              # Navigation bar
-│   └── ArticleLanguageSelector.vue
 ├── composables/
 │   ├── useLanguage.js          # Language state management
 │   └── useArticleLanguage.js
